@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Audifonos",
+    "description": "Noise Cancelation, Hi-Res",
+    "code": "AUD-001",
+    "price": 149.5,
+    "status": true,
+    "stock": 50,
+    "category": "tecnologia",
+    "thumbnails": []
+  },
+  {
+    "id": 2,
+    "title": "Parlante",
+    "description": "Estereo, 3 Kg",
+    "code": "AUD-002",
+    "price": 399.5,
+    "status": true,
+    "stock": 50,
+    "category": "tecnologia",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Parlate",
+    "description": "Estereo, 3 Kg",
+    "code": "AUD-002",
+    "price": 299.5,
+    "status": true,
+    "stock": 50,
+    "category": "tecnologia",
+    "thumbnails": []
+  },
+  {
+    "id": 4,
+    "title": "Power Bank",
+    "description": "20000 mah, USB C, USB A",
+    "code": "Power-001",
+    "price": 100,
+    "status": true,
+    "stock": 50,
+    "category": "tecnologia",
+    "thumbnails": []
+  }
+]
